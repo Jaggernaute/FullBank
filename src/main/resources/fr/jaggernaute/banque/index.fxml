@@ -28,7 +28,7 @@
            GridPane.rowIndex="1"
     />
     <TextField
-            fx:id="id"
+            fx:id="idFeild"
             GridPane.columnIndex="2"
             GridPane.rowIndex="1"
     />
@@ -38,7 +38,7 @@
            GridPane.rowIndex="2"
     />
     <PasswordField
-            fx:id="password"
+            fx:id="passwordField"
             GridPane.columnIndex="2"
             GridPane.rowIndex="2"
     />
@@ -59,7 +59,7 @@
     <Text
             fx:id="welcome_message"
             GridPane.columnIndex="1"
-            GridPane.rowIndex="6"
+            GridPane.rowIndex="4"
     />
 
     <stylesheets>
